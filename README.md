@@ -10,7 +10,7 @@ Previous research has explored the relationship between company financial perfor
 Through this project, we anticipate gaining a comprehensive understanding of data analysis techniques applied to financial data, further honing our skills in machine learning and statistical modeling. Specifically, we aim to enhance our proficiency in manipulating and visualizing financial datasets using Python libraries, conducting rigorous statistical analysis to discover meaningful relationships between company profitability and stock prices, and effectively communicating our findings through presentations. Moreover, we also look forward to developing a deeper insight into the intricacies of financial markets and investment decision-making processes, leveraging data-driven approaches to derive actionable insights and inform strategic investment decisions. Overall, this project provides us an invaluable opportunity to integrate theoretical knowledge with practical applications, fostering our comprehensive understanding of quantitative finance and data-driven decision-making principles.<br>
 Our group members include: Chuhan Ding, Xiaoxu Yang, Yanjun Jin.<br>
 Below is our tentative timeline for this project:<br>
-* Week 5: Background research, data collection and data preprocessing.<br>
+*Week 5: Background research, data collection and data preprocessing.<br>
 * Week 6: Data cleaning, feature selection, standardization & PCA.<br>
 * Week 7: Training machine learning models.<br>
 * Week 8: In-depth study and troubleshooting.<br>
